@@ -1,17 +1,17 @@
 # Tarun Pondreti 🚀
 
 <div align="center">
-  <h3><strong>Senior Software Engineer & Architect</strong></h3>
+  <h3><strong>Software Development Engineer (SDE)</strong></h3>
   <p align="center">
     <a href="https://leetcode.com/u/tarun10898/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white" /></a>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full-Stack+Architect;Distributed+Systems;Mobile+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;Distributed+Systems;Mobile+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 Summary
-A multi-disciplinary software engineer and system architect with extensive problem-solving and software development experience. Specializing in building high-concurrency backend services in **Go** and **Python (FastAPI)**, crafting elegant frontend experiences with **React** and **Angular**, and delivering performant cross-platform mobile apps using **Flutter**. Passionate about CI/CD automation, cloud infrastructure, and software craftsmanship.
+A multi-disciplinary Software Development Engineer (SDE) with extensive problem-solving and software development experience. Specializing in building high-concurrency backend services in **Go** and **Python (FastAPI)**, crafting elegant frontend experiences with **React** and **Angular**, and delivering performant cross-platform mobile apps using **Flutter**. Passionate about CI/CD automation, cloud infrastructure, and software craftsmanship.
 
 ---
 
@@ -68,11 +68,8 @@ A multi-disciplinary software engineer and system architect with extensive probl
 ### 📈 GitHub Ecosystem Metrics
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tarun10898&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun10898&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun10898&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=tarun10898&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=tarun10898&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
   </p>
 </div>
 
